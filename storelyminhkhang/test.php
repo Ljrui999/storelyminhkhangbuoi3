@@ -1,0 +1,1 @@
+<?php echo "Xin chào, Laragon đã chạy thành công!"; ?>
